@@ -1,0 +1,13 @@
+PairplotRedwine.png
+Photos_Presentation
+Resulats_Analysis.ipynb
+Wine_quality_Basics.pages
+winequality-red.csv
+winequality-white.csv
+Pair_wines.png
+.DS_Store
+*.png
+heart_failure/heart_failure_Dataset.csv
+heart_failure/heart_failure_ML.ipynb
+Spike Evaluation Metrics for ML.ipynb
+Graphs/Confusion Matrix
